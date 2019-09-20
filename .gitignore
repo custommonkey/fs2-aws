@@ -5,8 +5,11 @@ lib_managed/
 src_managed/
 project/boot/
 project/plugins/project/
+project/metals.sbt
 .history
 .cache
 .lib/
 local.*
 .DS_Store
+.metals
+.bloop
